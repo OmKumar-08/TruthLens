@@ -1,0 +1,18 @@
+python-dotenv
+flask
+fastapi
+uvicorn
+langchain
+langchain-community
+pinecone-client
+openai
+requests
+beautifulsoup4
+sentence-transformers
+python-dotenv
+httpx
+-e .
+langchain_openai
+chromadb
+transformers==4.41.2
+sentence-transformers==4.0.2
